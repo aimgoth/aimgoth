@@ -40,14 +40,13 @@ Hi, I'm Jimbaja Godfred 👋
 ### [Obamax Gardens Management System](https://github.com/aimgoth/obamax-gardens-management)
 End-to-end management solution for garden operations featuring inventory tracking, sales analytics, and automated reporting.
 
-### EasyWash Point washing bay management software 
-Real-time inventory tracking system with stock alerts, purchase orders, and supplier management.
+### [EasyWash Point](https://github.com/aimgoth/carwash-backend)
+Washing bay management system featuring real-time inventory tracking, automated stock alerts, purchase order management, and supplier relationship management.
 
-### Brafor clan funeral software
+### Brafor Clan Funeral Software
+Comprehensive funeral management system for clan operations, event scheduling, family coordination, and resource management. *Coming Soon* 🚧
 
-### E-learning Platform
-Full-featured LMS with course creation, student enrollment, assignment submission, and grade tracking.
-
+ 
 ---
 
 ## 💡 What I Build
